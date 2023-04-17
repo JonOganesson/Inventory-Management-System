@@ -1,0 +1,15 @@
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\bin\Debug\net6.0\JustCoding0401.exe
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\bin\Debug\net6.0\JustCoding0401.deps.json
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\bin\Debug\net6.0\JustCoding0401.runtimeconfig.json
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\bin\Debug\net6.0\JustCoding0401.dll
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\bin\Debug\net6.0\JustCoding0401.pdb
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\obj\Debug\net6.0\JustCoding0401.csproj.AssemblyReference.cache
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\obj\Debug\net6.0\JustCoding0401.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\obj\Debug\net6.0\JustCoding0401.AssemblyInfoInputs.cache
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\obj\Debug\net6.0\JustCoding0401.AssemblyInfo.cs
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\obj\Debug\net6.0\JustCoding0401.csproj.CoreCompileInputs.cache
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\obj\Debug\net6.0\JustCoding0401.dll
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\obj\Debug\net6.0\refint\JustCoding0401.dll
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\obj\Debug\net6.0\JustCoding0401.pdb
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\obj\Debug\net6.0\JustCoding0401.genruntimeconfig.cache
+C:\Users\jhono\OneDrive\Documents\C#\Udemy\Section 6\JustCoding0401\obj\Debug\net6.0\ref\JustCoding0401.dll
