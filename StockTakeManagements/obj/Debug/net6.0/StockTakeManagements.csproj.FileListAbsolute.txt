@@ -1,0 +1,15 @@
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\bin\Debug\net6.0\StockTakeManagements.exe
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\bin\Debug\net6.0\StockTakeManagements.deps.json
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\bin\Debug\net6.0\StockTakeManagements.runtimeconfig.json
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\bin\Debug\net6.0\StockTakeManagements.dll
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\bin\Debug\net6.0\StockTakeManagements.pdb
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\obj\Debug\net6.0\StockTakeManagements.csproj.AssemblyReference.cache
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\obj\Debug\net6.0\StockTakeManagements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\obj\Debug\net6.0\StockTakeManagements.AssemblyInfoInputs.cache
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\obj\Debug\net6.0\StockTakeManagements.AssemblyInfo.cs
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\obj\Debug\net6.0\StockTakeManagements.csproj.CoreCompileInputs.cache
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\obj\Debug\net6.0\StockTakeManagements.dll
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\obj\Debug\net6.0\refint\StockTakeManagements.dll
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\obj\Debug\net6.0\StockTakeManagements.pdb
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\obj\Debug\net6.0\StockTakeManagements.genruntimeconfig.cache
+C:\Users\jhono\OneDrive\Documents\C#\StockTakeManagements\obj\Debug\net6.0\ref\StockTakeManagements.dll
